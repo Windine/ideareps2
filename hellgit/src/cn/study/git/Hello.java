@@ -11,6 +11,7 @@ public class Hello {
         System.out.println("hello git.Version.1");
         System.out.println("this is version 2");
         System.out.println("this is version 3");
+        System.out.println("用户A新增内容，版本4");
         System.out.println("用户B新增内容，版本4");
     }
 }
